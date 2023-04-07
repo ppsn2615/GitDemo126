@@ -24,7 +24,7 @@ public class Test1 {
 		else if((score>0)&&(score<60)) {
 			grade = 'F';
 		}
-		else {
+		else { 
 			System.out.println("잘못된 점수입니다.");
 		}
 		
